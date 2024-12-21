@@ -7,7 +7,7 @@ The **Tokenized Academic Achievements dApp** is a blockchain-based platform that
 ## Contract Address
  0x04F2936A2f26ac2F767B3d92D868e63065b5F5D4
 
-The smart contract address will be updated here once the contract is deployed to the blockchain network.
+
 
 ## Project Vision
 
